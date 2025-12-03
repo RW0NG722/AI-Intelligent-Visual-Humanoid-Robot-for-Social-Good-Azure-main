@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+.env
+fyp2025Jan_venv/
+*.log
+*.sqlite3
+config.py
+*.pyc
+*.pyo
+recorded_audio.wav
+/static/response*.wav
+chat_history.json
+/__pycache__
